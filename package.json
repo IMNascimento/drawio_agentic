@@ -1,0 +1,24 @@
+{
+  "name": "drawio_agentic",
+  "version": "1.0.0",
+  "description": "![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-blue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMNascimento/drawio_agentic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMNascimento/drawio_agentic/issues"
+  },
+  "homepage": "https://github.com/IMNascimento/drawio_agentic#readme",
+  "devDependencies": {
+    "@electron/asar": "^3.4.1",
+    "@mermaid-js/mermaid-cli": "^11.12.0"
+  }
+}
